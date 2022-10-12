@@ -1,2 +1,2 @@
 # eggs
-this is a test <a href="www.google.com> eggs </a>
+this is a test www.google.com
